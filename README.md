@@ -1,3 +1,10 @@
-# funnel-tests
-this is something for Minecraft made by funneljai
-https://netflix.com
+9 links
+# https://netflix.com
+# https://discord.gg
+# https://funneljai-hub.github.io/code
+# https://youtube.com
+# https://diep.io
+# https://agar.io
+# https://hulu.com
+# https://disneyplus.com
+# https://primevideo.com
