@@ -10,3 +10,4 @@
 # https://disneyplus.com
 # https://primevideo.com
 # http://vr-m.net/
+# https://neal.fun/infinite-craft/
